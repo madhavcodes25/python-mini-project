@@ -1150,6 +1150,13 @@
             mobileMenuToggle.querySelector("i").className = "fas fa-bars";
         }
     });
-    </script>
+});
+document.querySelectorAll('.tab, .sticky-tab').forEach(function(tab) {
+    tab.addEventListener('click', function() {
+        searchInput.value = '';
+    });
+});
+</script>
+
 </body>
 </html>
