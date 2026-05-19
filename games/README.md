@@ -15,7 +15,7 @@ This folder contains beginner-friendly Python mini games. Each game is self-cont
 - Password-Forge
 - Reverse-Hangman-Game
 - Rock-Paper-Scissor
-- Roling-Dice
+- Rolling-Dice
 - Simon-Says
 - Snake-Game
 - Tic-Tac-Toe
